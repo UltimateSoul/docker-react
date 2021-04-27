@@ -10,7 +10,8 @@ function App() {
           Soul Project.
         </p>
         <div>
-          <h3>Let's hunt</h3>
+          <h3>That project prepared 27.04.2021 in order to demonstrate the ability </h3>
+          <h3>of deploying small projects on AWS elastic Beanstalk</h3>
         </div>
         <a
           className="App-link"
