@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Soul Project.
+          Demyd Project.
         </p>
         <div>
           <h3>That project prepared 27.04.2021 in order to demonstrate the ability </h3>
